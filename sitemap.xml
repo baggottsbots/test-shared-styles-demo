@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baggottsbots.github.io/test-shared-styles-demo/agency/</loc>
+    <lastmod>2026-06-15T00:17:16.310Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://baggottsbots.github.io/test-shared-styles-demo/</loc>
     <lastmod>2026-06-15T00:17:08.113Z</lastmod>
     <changefreq>weekly</changefreq>
