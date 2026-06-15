@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://baggottsbots.github.io/test-shared-styles-demo/event/</loc>
+    <lastmod>2026-06-15T00:18:22.428Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://baggottsbots.github.io/test-shared-styles-demo/agency/</loc>
     <lastmod>2026-06-15T00:18:17.947Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -8,11 +13,6 @@
   <url>
     <loc>https://baggottsbots.github.io/test-shared-styles-demo/</loc>
     <lastmod>2026-06-15T00:18:14.186Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://baggottsbots.github.io/test-shared-styles-demo/event/</loc>
-    <lastmod>2026-06-15T00:17:24.171Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
