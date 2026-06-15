@@ -1,0 +1,1 @@
+tailwind.config = { theme: { extend: { colors: { accent: '#36D6B5' } } } }
